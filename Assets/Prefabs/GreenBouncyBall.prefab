@@ -17,6 +17,18 @@ PrefabInstance:
       value: 4
       objectReference: {fileID: 0}
     - target: {fileID: 5296562073730575662, guid: 52de93f1c99514738894e453ee972e34, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296562073730575662, guid: 52de93f1c99514738894e453ee972e34, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296562073730575662, guid: 52de93f1c99514738894e453ee972e34, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 5296562073730575662, guid: 52de93f1c99514738894e453ee972e34, type: 3}
       propertyPath: m_LocalPosition.x
       value: 0.69
       objectReference: {fileID: 0}
@@ -58,7 +70,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5688523605016807081, guid: 52de93f1c99514738894e453ee972e34, type: 3}
       propertyPath: m_Name
-      value: BouncyBall (9) Variant
+      value: GreenBouncyBall
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
